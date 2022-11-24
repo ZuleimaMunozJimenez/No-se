@@ -20,7 +20,6 @@ int main(int argc, char* argv[]) {
   if (argv == nullptr) {
     return **argv; // intentional nullptr dereference
   }
-
   return 0;
 }
 
