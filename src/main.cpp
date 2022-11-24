@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
   } else if (num == 0) { // intentional mistake
     cout << "1 argument provided\n";
   } else if (num == 2) {
-    cout << "2 arguments provided\n"
+    cout << "2 arguments provided\n";
   } else {
     cout << num << " arguments provided\n";
   }
